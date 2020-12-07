@@ -24,3 +24,5 @@
   - 저장소에서 카피
     - $ git clone https://github.com/edu-kenshi/deploy.git
   - 이미 작성된 내용을 카피해서 만들어진 폴더 deploy 안으로 붙여놓는다
+    - $ git config --global user.email "edu-kenshi@gmail.com"
+    - $ git config --global user.name "edu-kenshi"
